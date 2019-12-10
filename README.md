@@ -6,7 +6,6 @@ This is a web application form that converts HKD to EUR using the current rate r
 
 ## ASP.NET Core MVC web application Structure
 
-As any framework that supports MVC pattern ASP has its structure that helps to achieve separation of concerns.
 
 ### Model ##
 It contains 3 classes:
