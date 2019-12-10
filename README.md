@@ -24,7 +24,7 @@ It contains 2 classes
 
 ### View ##
 It contains 2 folders
-- Home or index: our home page that contains the frame 
+- Home or index: our home page that contains the form.
 - the share files: here we don't have a menu nor a footer but  we still need to edit the layout file
 to add the dependencies.
 
