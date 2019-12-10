@@ -1,5 +1,9 @@
 # ConvertAPI
 [![npm](https://img.shields.io/badge/langage-ASP.Netcore-blue.svg?style=flat-square)](https://dotnet.microsoft.com/apps/aspnet/) 
+## Description ##
+This is a web application form that converts HKD to EUR using the current rate retrieved from the exchange api. The form has an input field that allows the user to enter a number and then print the result. 
+
+
 ## ASP.NET Core MVC web application Structure
 
 As any framework that supports MVC pattern ASP has its structure that helps to achieve separation of concerns.
