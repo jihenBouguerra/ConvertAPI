@@ -25,7 +25,7 @@ It contains 2 folders
 which contains the requirements of the code (bootstrap and jquery environment).
 
 ## Dependencies ##
-I'm using the [Exchange rete API](https://api.exchangeratesapi.io/) to get the rating change.
+I'm using the [Exchange Rate API](https://api.exchangeratesapi.io/) to get the rating change.
 
 I also imported [Jquery](https://jquery.com/) and [Bootstrap](https://getbootstrap.com/).
 
