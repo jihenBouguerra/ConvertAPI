@@ -34,8 +34,8 @@ I also imported :[Jquery](https://jquery.com/)  and [Bootstrap](https://getboots
 ## Authors ##
 
 * Jihen Bouguerra 
-  * Github: [https://github.com/jihenBouguerra](https://github.com/touir1)
-  * Email: [boujihen647@gmail.com](mailto:boujihen647@gmail.com)
+  * Github: [jihenBouguerra](https://github.com/jihenBouguerra)
+  * Email: [boujihen](mailto:boujihen647@gmail.com)
   
 
 
