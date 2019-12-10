@@ -1,5 +1,5 @@
 # ConvertAPI
-In this file I will explain the project structure of an ASP.NET Core MVC web application.
+ASP.NET Core MVC web application structure.
 As any framework that supports MVC pattern ASP has its structure that helps to achieve separation of concerns.
 
 ## Model: it contains 3 classes:
