@@ -15,7 +15,7 @@ It contains 3 classes:
 It contains 2 classes 
 - the HomeController: the controller of the Home page [route "/"]
 - the ExchangeRatesApi: the controller that gets the exchange rate from the API. 
-- the APIController: it has just one post method that gets the rate value from the ExchangeRatesApi method and convert the value. [route "/api"].
+- the APIController: it has just one post method that gets the rate value from the ExchangeRatesApi method and convert the value. [route "/api"]
 
 
 ### View ##
