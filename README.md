@@ -12,7 +12,6 @@ As any framework that supports MVC pattern ASP has its structure that helps to a
 
 ### Controller: it contains 2 classes 
 - the HomeController: the controller of the Home page [route "/"]
-
 - the ExchangeRatesApi: the controller that gets the exchange rate from the API. 
 - the APIController: it has just one post method that gets the rate value from the ExchangeRatesApi method and convert the value. [route "/api"]
 
@@ -25,7 +24,7 @@ which contains the requirements of the code (bootstrap and jquery environment)
 ## Dependencies ##
 I'm using this [API](https://api.exchangeratesapi.io/) to get the rating change.
 
-I also imported :[Jquery](https://jquery.com/)  and [Bootstrap](https://getbootstrap.com/)
+I also imported [Jquery](https://jquery.com/) and [Bootstrap](https://getbootstrap.com/)
 
 
 ## How to run ##
