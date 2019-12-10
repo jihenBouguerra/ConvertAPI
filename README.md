@@ -25,8 +25,8 @@ It contains 2 classes
 ### View ##
 It contains 2 folders
 - Home or index: our home page that contains the frame 
-- the share files: (here we have no father nor means so we have shared element) but we still needed to edit the layout file
-which contains the requirements of the code (bootstrap and jquery environment).
+- the share files: here we don't have a menu nor a footer but  we still need to edit the layout file
+to add the dependencies.
 
 ## Dependencies ##
 I'm using the [Exchange Rate API](https://api.exchangeratesapi.io/) to get the rating change.
